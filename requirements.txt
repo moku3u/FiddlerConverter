@@ -1,0 +1,4 @@
+kivy
+japanize-kivy
+Pillow
+urllib
